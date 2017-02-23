@@ -1,2 +1,2 @@
 # CollectionInTable
-The tutorial can be read here : 
+The tutorial can be read here : [https://medium.com/@adinugroho/fixed-height-uicollectionview-inside-uitableview-79f24657d08f](https://medium.com/@adinugroho/fixed-height-uicollectionview-inside-uitableview-79f24657d08f)
