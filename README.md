@@ -1,2 +1,2 @@
 # CollectionInTable
-Tutorial on creating fixed height UICollectionView inside UITableView
+The tutorial can be read here : 
